@@ -1,0 +1,103 @@
+[
+    {
+        "Restaurante": {
+            "Bebidas": {
+                "Guaraná": {
+                    "price": 9
+                },
+                "Água": {
+                    "price": 5
+                },
+                "Suco": {
+                    "price": 6
+                }
+            },
+            "Refeições": {
+                "Alaminuta": {
+                    "price": 28
+                },
+                "Churrasco": {
+                    "price": 31.9
+                }
+            }
+        }
+    },
+    {
+        "Comida Asiatica": {
+            "Chinesa": {
+                "Rolinho Primavera": {
+                    "price": 15.9
+                }
+            },
+            "Oriental": {
+                "Rolinho Primavera": {
+                    "price": 15.9
+                },
+                "Temaki": {
+                    "price": 20.9
+                },
+                "Sushi": {
+                    "price": 70
+                }
+            },
+            "Japonesa": {
+                "Temaki": {
+                    "price": 20.9
+                },
+                "Sushi": {
+                    "price": 70
+                }
+            },
+            "Refeições": {
+                "Sushi": {
+                    "price": 70
+                }
+            },
+            "Bebidas": {
+                "Guaraná": {
+                    "price": 9
+                },
+                "Água": {
+                    "price": 5
+                }
+            }
+        }
+    },
+    {
+        "Fast Lanches": {
+            "Lanche": {
+                "Xis Frango": {
+                    "price": 30
+                },
+                "Xis Carne": {
+                    "price": 31
+                },
+                "Xis Coração": {
+                    "price": 36.5
+                },
+                "Hamburguer": {
+                    "price": 28.5
+                },
+                "Batata frita": {
+                    "price": 15
+                }
+            },
+            "Bebidas": {
+                "Guaraná": {
+                    "price": 9
+                },
+                "Suco": {
+                    "price": 6
+                },
+                "Água": {
+                    "price": 5
+                }
+            },
+            "Fast food": {
+                "Hamburguer": {
+                    "price": 28.5
+                }
+            }
+        }
+    }
+]
